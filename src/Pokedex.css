@@ -1,0 +1,24 @@
+.Pokedex {
+    display: inline-block;
+    width: 8em;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+}
+
+.Pokedex-title {
+    color: blue;
+    font-weight: bold;
+}
+
+.Pokedex-data {
+    font-size: 80%;
+}
+
+.Pokedex-image {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
